@@ -8,6 +8,14 @@ Our mission is to empower students to utilize data science and AI for the greate
 
 As a student-led initiative, our organization creates a supportive environment for learning, growth, and creativity. Whether you're just getting started or you're an experienced coder, there's a place for you here!
 
+### 🎓 Our Sponsor: Master of Science in Human Language Technology (MSHLT) Program
+
+We are proudly sponsored by the **Master of Science in Human Language Technology (MSHLT)** program at the University of Arizona. This cutting-edge program is designed to equip students with the skills to tackle challenges in natural language processing, machine learning, artificial intelligence, and computational linguistics—key components of many Data 4 Good projects. 
+
+The MSHLT degree is available [online](https://linguistics.arizona.edu/online-ms-human-language-technology) or [on-campus](https://linguistics.arizona.edu/ms-hlt). For on-campus undergraduates, there is an [accelerated BS/MS](https://linguistics.arizona.edu/accelerated-ms) program. The Department of Linguistics also offers a stackable [graduate certifcate](https://linguistics.arizona.edu/nlp-certificate-requirements) in Natural Lanaguge Processing (NLP).  
+
+For more details, visit the [MSHLT program page](https://linguistics.arizona.edu/).
+
 ### 🚀 How can the community get involved?
 
 Although the official D4G competition is exclusive to registered teams, other students may participate in **[Phase 0 - Training](https://github.com/uaz-d4g/phase0)**, which offers free resources to help you build foundational skills in data science and AI. We encourage students from other universities, high school seniors, and graduate students to take advantage of these training resources and grow alongside our community.
