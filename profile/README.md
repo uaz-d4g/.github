@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Welcome to the **Data 4 Good (D4G)** GitHub organization at the University of Arizona! We are a community of undergraduate and graduate students dedicated to using data for positive social impact through the D4G Case Competition. Our teams leverage data science, machine learning, and artificial intelligence to tackle real-world challenges while enhancing their skills through hands-on experience.
+Welcome to the **Data 4 Good (D4G)** GitHub organization at the University of Arizona! We are a community of undergraduate and graduate students dedicated to using data and artifical intelligence for positive social impact through the [D4G Case Competition](https://business.purdue.edu/events/data4good/). Our multi-discpline teams leverage data science, natural language processing, machine learning, and artificial intelligence (AI) to tackle real-world challenges while enhancing their skills through hands-on experience.
 
 ### 🙋‍♀️ What is our organization all about?
 
-Our mission is to empower students to utilize data science and AI for the greater good, building innovative solutions to some of the world’s most pressing problems. Through collaboration, mentorship, and access to industry-level tools, students develop technical skills while contributing to meaningful projects.
+Our mission is to empower students to utilize AI for the greater good, building innovative solutions to some of the world’s most pressing problems. Through collaboration, mentorship, and access to industry-level tools, students develop technical skills while contributing to meaningful projects.
 
-As a student-led initiative, our organization creates a supportive environment for learning, growth, and creativity. Whether you're just getting started or you're an experienced coder, there's a place for you here!
+As a student-led initiative, our organization creates a supportive environment for learning, growth, and creativity. Whether you're just getting started, an experienced coder, or have no coding experience, there's a place for you here!
 
 ### 🎓 Our Sponsor: Master of Science in Human Language Technology (MSHLT) Program
 
