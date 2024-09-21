@@ -8,7 +8,7 @@ Our mission is to empower students to utilize data science and AI for the greate
 
 As a student-led initiative, our organization creates a supportive environment for learning, growth, and creativity. Whether you're just getting started or you're an experienced coder, there's a place for you here!
 
-### 🌈 How can the community get involved?
+### 🚀 How can the community get involved?
 
 Although the official D4G competition is exclusive to registered teams, other students may participate in **[Phase 0 - Training](https://github.com/uaz-d4g/phase0)**, which offers free resources to help you build foundational skills in data science and AI. We encourage students from other universities, high school seniors, and graduate students to take advantage of these training resources and grow alongside our community.
 
